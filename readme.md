@@ -47,3 +47,7 @@ Microsoft Skill Badges and Trophies
 - Includes multiple cloud bases Assessment and practice Sets
 - Upskilled on Microsoft Azure Services and other platform tools
 - https://learn.microsoft.com/en-us/users/akshaypratapsingh09/
+
+
+Oracle Cloud Infrastructure 2025 AI Foundations Associate (1Z0-1122-25) [Retires May 29, 2026]
+https://catalog-education.oracle.com/ords/certview/sharebadge?id=69687D2D1FBA8AF9F421EEEE72E5D2FE11AB8BB064A3707167939955518B690D
